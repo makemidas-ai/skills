@@ -1,7 +1,7 @@
 {
   "name": "makemidas",
   "version": "0.1.0",
-  "description": "Generate AI images and videos (Nano Banana, GPT Image, Seedream, Seedance, Kling, Veo\u2026) with your MakeMidas credits: the MakeMidas MCP server and a skill for the MakeMidas CLI.",
+  "description": "Generate AI images and videos (Nano Banana, GPT Image, Seedream, Seedance, Kling, Veo…) with your MakeMidas credits: the MakeMidas MCP server and a skill for the MakeMidas CLI.",
   "author": {
     "name": "MakeMidas",
     "url": "https://makemidas.com"
@@ -15,5 +15,6 @@
     "image-to-video",
     "mcp"
   ],
-  "mcpServers": "./mcp.json"
+  "mcpServers": "./mcp.json",
+  "repository": "https://github.com/makemidas-ai/skills"
 }

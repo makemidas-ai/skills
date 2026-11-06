@@ -12,14 +12,14 @@ generation with your MakeMidas credits.
 Claude Code:
 
 ```bash
-/plugin marketplace add makemidas/skills
+/plugin marketplace add makemidas-ai/skills
 /plugin install makemidas@makemidas-skills
 ```
 
 Any agent that reads skills:
 
 ```bash
-npx skills add makemidas/skills --skill makemidas
+npx skills add makemidas-ai/skills --skill makemidas
 ```
 
 Or add only the MCP server:
