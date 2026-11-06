@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "makemidas": {
+      "url": "https://makemidas.com/api/mcp"
+    }
+  }
+}
