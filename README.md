@@ -1,7 +1,11 @@
-# MakeMidas skills
+# MakeMidas skills: AI image and video generation for AI agents
 
-Agent plugins for [MakeMidas](https://makemidas.com): AI image and video
-generation with your MakeMidas credits.
+An agent skill and plugin that let Claude Code, Cursor, Codex, OpenClaw and
+other coding agents make AI images and videos with Nano Banana, GPT Image,
+Seedream, Veo, Kling and more through [MakeMidas](https://makemidas.com),
+paid with your MakeMidas credits. It drives the
+[MakeMidas CLI](https://github.com/makemidas-ai/cli) and adds the MakeMidas
+MCP server, which also works in ChatGPT and Claude.
 
 | Plugin | What it adds |
 |---|---|
