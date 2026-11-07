@@ -16,9 +16,9 @@ stdout, progress to stderr. Every command takes `--json`.
 makemidas --version
 ```
 
-If it isn't installed, use `npx -y makemidas` in place of `makemidas`
+If it isn't installed, use `npx -y @makemidas/cli` in place of `makemidas`
 everywhere below (Node.js 20+). Ask the user before running
-`npm i -g makemidas`.
+`npm i -g @makemidas/cli`.
 
 ## 2. Make sure the user is signed in
 
