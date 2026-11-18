@@ -1,7 +1,7 @@
 {
   "name": "makemidas",
-  "version": "0.1.0",
-  "description": "Generate AI images and videos (Nano Banana, GPT Image, Seedream, Seedance, Kling, Veo…) with your MakeMidas credits: the MakeMidas MCP server and a skill for the MakeMidas CLI.",
+  "version": "0.2.0",
+  "description": "Make AI images, videos, music, sound effects, voiceovers and transcripts (Nano Banana, GPT Image, Seedream, Seedance, Kling, Veo, Suno, Lyria, Gemini TTS, Whisper…) with your MakeMidas credits: the MakeMidas MCP server and eight skills for the MakeMidas CLI.",
   "author": {
     "name": "MakeMidas",
     "url": "https://makemidas.com"
@@ -11,6 +11,9 @@
   "keywords": [
     "ai-image-generator",
     "ai-video-generator",
+    "ai-music-generator",
+    "text-to-speech",
+    "transcription",
     "text-to-image",
     "image-to-video",
     "mcp"

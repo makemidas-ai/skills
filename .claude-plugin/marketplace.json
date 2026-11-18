@@ -1,6 +1,6 @@
 {
   "name": "makemidas-skills",
-  "description": "AI image and video generation skills from MakeMidas",
+  "description": "AI image, video and audio generation skills from MakeMidas",
   "owner": {
     "name": "MakeMidas",
     "url": "https://makemidas.com"
@@ -9,7 +9,7 @@
     {
       "name": "makemidas",
       "source": "./plugins/makemidas",
-      "description": "Generate AI images and videos with your MakeMidas credits: the MakeMidas MCP server plus a CLI skill"
+      "description": "Make AI images, videos, music, sound effects, voiceovers and transcripts with your MakeMidas credits: the MakeMidas MCP server plus eight CLI skills"
     }
   ]
 }

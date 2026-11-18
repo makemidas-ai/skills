@@ -1,14 +1,23 @@
 {
   "name": "makemidas",
   "displayName": "MakeMidas",
-  "version": "0.1.0",
-  "description": "Generate AI images and videos with your MakeMidas credits. Adds the MakeMidas MCP server (sign in once with OAuth) and a skill for the MakeMidas CLI.",
+  "version": "0.2.0",
+  "description": "Make AI images, videos, music, sound effects, voiceovers and transcripts with your MakeMidas credits. Adds the MakeMidas MCP server (sign in once with OAuth) and eight skills for the MakeMidas CLI.",
   "author": {
     "name": "MakeMidas",
     "url": "https://makemidas.com"
   },
   "homepage": "https://makemidas.com/developers",
   "license": "MIT",
-  "keywords": ["ai-image-generator", "ai-video-generator", "text-to-image", "image-to-video", "mcp"],
+  "keywords": [
+    "ai-image-generator",
+    "ai-video-generator",
+    "ai-music-generator",
+    "text-to-speech",
+    "transcription",
+    "text-to-image",
+    "image-to-video",
+    "mcp"
+  ],
   "logo": "assets/logo.png"
 }
