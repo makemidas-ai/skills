@@ -1,8 +1,8 @@
 {
   "name": "makemidas",
   "displayName": "MakeMidas",
-  "version": "0.2.0",
-  "description": "Make AI images, videos, music, sound effects, voiceovers and transcripts with your MakeMidas credits. Adds the MakeMidas MCP server (sign in once with OAuth) and eight skills for the MakeMidas CLI.",
+  "version": "0.3.0",
+  "description": "Make AI images, videos, music, sound effects, voiceovers, transcripts and short films with your MakeMidas credits. Adds the MakeMidas MCP server (sign in once with OAuth) and ten skills for the MakeMidas CLI.",
   "author": {
     "name": "MakeMidas",
     "url": "https://makemidas.com"

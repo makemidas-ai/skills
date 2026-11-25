@@ -14,13 +14,15 @@ Claude.
 | [`makemidas`](plugins/makemidas/skills/makemidas) | Setup, sign-in, credits, prices, past generations; routes to the others |
 | [`makemidas-image`](plugins/makemidas/skills/makemidas-image) | Images from a prompt or pictures; compare image models |
 | [`makemidas-video`](plugins/makemidas/skills/makemidas-video) | Video clips from text, a first frame or first and last frames |
+| [`makemidas-film`](plugins/makemidas/skills/makemidas-film) | Short films and ads: script, storyboard, approved frames and clips, one assembled MP4 |
+| [`makemidas-creative-director`](plugins/makemidas/skills/makemidas-creative-director) | On-brand ideas from your brand, characters and asset library, then made |
 | [`makemidas-music`](plugins/makemidas/skills/makemidas-music) | Songs, instrumentals and jingles |
 | [`makemidas-sound-effects`](plugins/makemidas/skills/makemidas-sound-effects) | Sound effects and seamless loops |
 | [`makemidas-voiceover`](plugins/makemidas/skills/makemidas-voiceover) | Text to speech |
 | [`makemidas-transcribe`](plugins/makemidas/skills/makemidas-transcribe) | Transcripts and subtitles |
 | [`makemidas-edit`](plugins/makemidas/skills/makemidas-edit) | Background removal, image and video upscaling |
 
-The [`makemidas`](plugins/makemidas) plugin bundles all eight skills and the
+The [`makemidas`](plugins/makemidas) plugin bundles all ten skills and the
 MakeMidas MCP server.
 
 ## Install
