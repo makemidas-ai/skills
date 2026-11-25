@@ -9,7 +9,7 @@
     {
       "name": "makemidas",
       "source": "./plugins/makemidas",
-      "description": "Make AI images, videos, music, sound effects, voiceovers and transcripts with your MakeMidas credits: the MakeMidas MCP server plus eight CLI skills"
+      "description": "Make AI images, videos, music, sound effects, voiceovers, transcripts and short films with your MakeMidas credits: the MakeMidas MCP server plus ten CLI skills"
     }
   ]
 }

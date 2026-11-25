@@ -1,6 +1,6 @@
 ---
 name: makemidas
-description: Set up and use the MakeMidas CLI, which makes AI images, videos, songs, sound effects, voiceovers and transcripts and edits pictures and clips with the user's MakeMidas credits (Nano Banana, GPT Image, Seedream, Flux, Seedance, Kling, Veo, Wan, Suno, Lyria, Gemini TTS, Whisper…). Use to install or sign in to the CLI, check credits, plans or model prices, list or delete past generations, or when a request mixes several kinds of media; for one clear task prefer the focused skill (makemidas-image, makemidas-video, makemidas-music, makemidas-sound-effects, makemidas-voiceover, makemidas-transcribe, makemidas-edit). Spends the user's MakeMidas credits.
+description: Set up and use the MakeMidas CLI, which makes AI images, videos, songs, sound effects, voiceovers and transcripts and edits pictures and clips with the user's MakeMidas credits (Nano Banana, GPT Image, Seedream, Flux, Seedance, Kling, Veo, Wan, Suno, Lyria, Gemini TTS, Whisper…). Use to install or sign in to the CLI, check credits, plans or model prices, list or delete past generations, or when a request mixes several kinds of media; for one clear task prefer the focused skill (makemidas-image, makemidas-video, makemidas-film, makemidas-music, makemidas-sound-effects, makemidas-voiceover, makemidas-transcribe, makemidas-edit, makemidas-creative-director). Spends the user's MakeMidas credits.
 license: MIT
 ---
 
@@ -21,6 +21,8 @@ stdout, progress to stderr. Every command takes `--json`.
 | A voiceover from text | `makemidas-voiceover` | `speech` |
 | A transcript or subtitles from audio or video | `makemidas-transcribe` | `transcribe` |
 | A background removed, an image or clip upscaled | `makemidas-edit` | `remove-bg`, `upscale`, `upscale-video` |
+| A short film, ad or multi-shot video, assembled | `makemidas-film` | `film` |
+| Ideas, a campaign or a set of on-brand pieces | `makemidas-creative-director` | `brands`, `characters`, `assets`, then the others |
 
 If only this skill is installed, the commands below and `makemidas --help`
 cover everything; install the others with
